@@ -1,6 +1,6 @@
 # JS Movie Scraper Demo
 
-This is a CLI app demonstrating use of [Watir](http://watir.com) and headless Chrome to scrape a move website.
+This is a CLI app demonstrating use of [Watir](http://watir.com) and headless Chrome to scrape a movie website with content being loaded with JavaScript.
 
 ## Installation
 
