@@ -2,11 +2,14 @@
 
 This is a CLI app demonstrating use of [Watir](http://watir.com) and headless Chrome to scrape a move website.
 
-## Development
+## Installation
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+To test it out, clone down this repo and run:
+- `cd movie-js-site-scraper-demo`
+- `bundle install`
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+To start the CLI app run
+- `bin/js-scraping-demo`
 
 ## Contributing
 
