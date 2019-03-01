@@ -1,28 +1,6 @@
-# PoltergeistDemo
+# JS Movie Scraper Demo
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/poltergeist_demo`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'poltergeist_demo'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install poltergeist_demo
-
-## Usage
-
-TODO: Write usage instructions here
+This is a CLI app demonstrating use of [Watir](http://watir.com) and headless Chrome to scrape a move website.
 
 ## Development
 
